@@ -17,7 +17,7 @@ This project is a **realistic clone** of the iconic **Netflix** homepage, built 
 
 ## 🔍 Preview
 
-![Netflix Clone Preview](netflix.gif)
+![Netflix Clone](netflix.gif)
 
 ## 📞 Contact
 
