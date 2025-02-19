@@ -10,7 +10,7 @@ This project is a **realistic clone** of the iconic **Netflix** homepage, built 
 ✅ **FAQs (Frequently Asked Questions)** – Quick answers to all your Netflix-related queries! Get answers instantly with easy access.  
 ✅ **Footer** – A sleek footer with all the important links you need, from FAQs to privacy policies and customer support.
 
-## 🔧 Technologies Used
+## 🛠 Technologies Used
 
 - **HTML** – Used for structuring the page content with elegance and accessibility.  
 - **CSS** – Styled the page to create a modern, responsive design that looks great on any device.
